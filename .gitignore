@@ -1,0 +1,14 @@
+# Build output
+build/
+*.exe
+*.o
+*.obj
+*.a
+
+# Secrets: never commit these
+.env
+p13_test.env
+
+# Editor and local files
+.vscode/
+build_log.txt
